@@ -1,5 +1,5 @@
 # Batch-Normalization
 
-Batch Normalization
-Early Stopping
-Regularizer L2
+1) Batch Normalization
+2) Early Stopping
+3) Regularizer L2
